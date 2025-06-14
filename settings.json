@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
+    "ip": "not_gonna_die.aternos.me",
+    "port": 47691,
     "version": "1.19.3"
   },
 
